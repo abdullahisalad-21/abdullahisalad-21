@@ -26,7 +26,7 @@ I learn every day and document all my hands-on practice in my GitHub repositorie
 
 ---
 
-## ⚡ Animated Icons (Just for fun)
+## ⚡ Animated Icons
 <p align="left">
   <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="80" />
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="80" />
@@ -48,11 +48,11 @@ I learn every day and document all my hands-on practice in my GitHub repositorie
 ## 🧭 Learning Timeline
 
 ### **2026**
-- **January** — Linux navigation, permissions, users & groups  
-- **January** — Windows PowerShell, ACLs, password management  
-- **January** — Networking fundamentals: DNS, routing, Packet Tracer  
-- **January** — Security basics: least privilege, hardening, ACL theory  
-- **January** — Built full GitHub portfolio with structured repos  
+- Linux navigation, permissions, users & groups  
+- Windows PowerShell, ACLs, password management  
+- Networking fundamentals: DNS, routing, Packet Tracer  
+- Security basics: least privilege, hardening, ACL theory  
+- Built full GitHub portfolio with structured repos  
 
 ### **2025**
 - Completed Google IT Support coursework  
@@ -66,7 +66,6 @@ I learn every day and document all my hands-on practice in my GitHub repositorie
 ---
 
 ## 🧰 Tools I Use
-Here are the tools I work with daily:
 
 | Category | Tools |
 |---------|-------|
@@ -81,19 +80,19 @@ Here are the tools I work with daily:
 
 ## 🚀 My Projects
 
-### 🔹 **Linux Admin Labs**
+### 🔹 Linux Admin Labs
 Hands-on Linux practice: permissions, users, groups, navigation, pipelines.
 
-### 🔹 **Windows Admin Labs**
+### 🔹 Windows Admin Labs
 PowerShell-based Windows administration: ACLs, user management, troubleshooting.
 
-### 🔹 **Networking Labs**
+### 🔹 Networking Labs
 DNS, routing, Packet Tracer router configuration, OSI model, troubleshooting.
 
-### 🔹 **Security Basics**
+### 🔹 Security Basics
 Password policies, ACL theory, least privilege, system hardening.
 
-### 🔹 **Daily IT Practice**
+### 🔹 Daily IT Practice
 Daily logs showing consistent learning and real hands-on progress.
 
 ---
@@ -131,8 +130,8 @@ Daily logs showing consistent learning and real hands-on progress.
 ---
 
 ## 🔗 Links
-- **LinkedIn:** *(paste your link here)*  
-- **CV / Resume:** *(paste your Google Drive or PDF link here)*  
+- **LinkedIn:** [Abdullahi Isse Salad](https://www.linkedin.com/in/abdullahi-isse-salad-27752634a/)  
+- **Resume (PDF):** [Download here](https://drive.google.com/file/d/1pSdyP-DW2eGLdpigVMawjNVfOMyOqfLJ/view?usp=sharing)  
 - **Email:** **abdullsalad21@gmail.com**
 
 ---
