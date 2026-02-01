@@ -140,7 +140,7 @@ Daily logs showing consistent learning and real hands-on progress.
 <p align="center">
   <img src="https://img.shields.io/github/followers/abdullahisalad-21?style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/abdullahisalad-21?style=for-the-badge" />
-  <img src="https://img.shields.io/github/repos/abdullahisalad-21?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Public%20Repos-6-blue?style=for-the-badge" />
 </p>
 
 ---
