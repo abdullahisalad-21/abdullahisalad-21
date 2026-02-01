@@ -12,21 +12,18 @@ I learn every day and document all my hands-on practice in my GitHub repositorie
 
 ## 🛡️ Badges & Skills
 
-### 🐧 Linux
-![Linux](https://img.shields.io/badge/Linux-Admin-blue?style=flat-square&logo=linux)
-
-### 🪟 Windows
-![Windows](https://img.shields.io/badge/Windows-PowerShell-blue?style=flat-square&logo=powershell)
-
-### 🌐 Networking
-![Networking](https://img.shields.io/badge/Networking-DNS%20%7C%20Routing%20%7C%20PacketTracer-green?style=flat-square)
-
-### 🔐 Security
-![Security](https://img.shields.io/badge/Security-ACLs%20%7C%20Hardening-red?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/Linux-Admin-blue?style=flat-square&logo=linux" />
+  <img src="https://img.shields.io/badge/Windows-PowerShell-blue?style=flat-square&logo=powershell" />
+  <img src="https://img.shields.io/badge/Networking-DNS%20%7C%20Routing%20%7C%20PacketTracer-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Security-ACLs%20%7C%20Hardening-red?style=flat-square" />
+  <img src="https://img.shields.io/github/followers/abdullahisalad-21?style=social" />
+</p>
 
 ---
 
 ## ⚡ Animated Icons
+
 <p align="left">
   <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="80" />
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="80" />
@@ -37,6 +34,7 @@ I learn every day and document all my hands-on practice in my GitHub repositorie
 ---
 
 ## 📚 My Key Repositories
+
 - **linux-admin-labs** — Hands-on Linux administration labs  
 - **windows-admin-labs** — PowerShell and Windows admin practice  
 - **networking-labs** — Networking commands, DNS, Packet Tracer  
@@ -47,21 +45,21 @@ I learn every day and document all my hands-on practice in my GitHub repositorie
 
 ## 🧭 Learning Timeline
 
-### **2026**
+### 2026
 - Linux navigation, permissions, users & groups  
 - Windows PowerShell, ACLs, password management  
 - Networking fundamentals: DNS, routing, Packet Tracer  
 - Security basics: least privilege, hardening, ACL theory  
-- Built full GitHub portfolio with structured repos  
+- Built a structured IT Support portfolio on GitHub  
 
-### **2025**
+### 2025
 - Completed Google IT Support coursework  
 - Started CompTIA A+ preparation  
 - Began Linux & Windows admin practice  
 
-### **2024**
+### 2024
 - Learned basic computer troubleshooting  
-- Started interest in cybersecurity  
+- Developed interest in cybersecurity  
 
 ---
 
@@ -71,7 +69,7 @@ I learn every day and document all my hands-on practice in my GitHub repositorie
 |---------|-------|
 | **Operating Systems** | Ubuntu, Windows 10/11, WSL2 |
 | **Shells** | Bash, PowerShell |
-| **Networking** | Packet Tracer, ipconfig, ping, tracert, nslookup |
+| **Networking** | Packet Tracer, `ipconfig`, `ping`, `tracert`, `nslookup` |
 | **Security** | ACLs, password policies, least privilege |
 | **Version Control** | Git & GitHub |
 | **Learning Platforms** | Google IT Support, LinkedIn Learning, Udemy |
@@ -113,6 +111,7 @@ Daily logs showing consistent learning and real hands-on progress.
 ---
 
 ## 📘 What I'm Learning Now
+
 - Advanced Linux permissions & ACLs  
 - Windows troubleshooting and PowerShell automation  
 - DNS, DHCP, routing, and OSI model  
@@ -122,6 +121,7 @@ Daily logs showing consistent learning and real hands-on progress.
 ---
 
 ## 🎯 My Goals
+
 - Become an **IT Support Specialist**  
 - Build a strong, real-world portfolio  
 - Transition into **cybersecurity by 2030**  
@@ -130,19 +130,13 @@ Daily logs showing consistent learning and real hands-on progress.
 ---
 
 ## 🔗 Links
+
 - **LinkedIn:** [Abdullahi Isse Salad](https://www.linkedin.com/in/abdullahi-isse-salad-27752634a/)  
 - **Resume (PDF):** [Download here](https://drive.google.com/file/d/1pSdyP-DW2eGLdpigVMawjNVfOMyOqfLJ/view?usp=sharing)  
 - **Email:** **abdullsalad21@gmail.com**
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahisalad-21&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahisalad-21&layout=compact&theme=tokyonight" height="150" />
-</p>
-
----
-
 ## 🙌 Thanks for Visiting
+
 Feel free to explore my repos — they show my real progress, discipline, and dedication to becoming an IT professional.
